@@ -14,7 +14,7 @@ radbeacons = scanner.scan
 There is also a `fetch` method that returns a `Radbeacon::Usb` object for a given MAC address.
 
 ```
-radbeacon = scanner.fetch("11:22:33:44:55:66")
+radbeacon = scanner.fetch("11:22:33:44:55:aa")
 ```
 
 #### Scan Options
